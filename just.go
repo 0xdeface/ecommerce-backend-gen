@@ -1,4 +1,4 @@
-package ecommerce_backend_gen
+package main
 
 func Just() {
 
